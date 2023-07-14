@@ -2,7 +2,7 @@ import os
 
 class Config(object):
     # get a token from https://chatbase.com
-    CHAT_BASE_TOKEN = "mongodb+srv://UploadBot:Aail7172@cluster0.bjeypjj.mongodb.net/?retryWrites=true&w=majority"
+    CHAT_BASE_TOKEN = "mongodb+srv://Mafix:Aail7172@cluster0.p2s3qiv.mongodb.net/"
     # get a token from @BotFather
     TG_BOT_TOKEN = "5816776998:AAF7BeSSn7LzDV-3JoxEg0LXhaAhef8szFM"
     # The Telegram API things
